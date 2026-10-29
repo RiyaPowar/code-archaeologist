@@ -1,0 +1,5 @@
+.env
+.env/*
+git_repos.txt
+pytest.ini
+strategy.docx
